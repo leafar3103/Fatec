@@ -10,7 +10,8 @@ Mas o ponto fundamental é construir uma cultura colaborativa, onde os próprios
 
   Todo esse processo, é voltado a retribuir o conhecimento adquirido, aos novos profissionais do mercado, como um legado academico e de alguma forma auxiliando aqueles que vem da periferia e não tiveram oportunidades de estudar ou mesmo obter informações prévias ao curso. 
 
-
+## Esse está sendo um processo de desenvolvimento continuo. 
+Essa proposta do projeto, e a integração com o <b>Wiki</b> para consulta e consumo de informações é parte do processo de gamificação, onde seu objetivo é justamente fomentar a troca de conhecimento. 
 
 ### Clique na imagem para acompanhar com mais detalhes o projeto.
   
