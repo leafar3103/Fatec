@@ -183,6 +183,22 @@ td, th {
 .principal em {
 	font-style: italic;
 }
+.subtitulo{
+	text-align: left;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 0 0 1em 1em;
+	clear: left;
+}
+.high-concept {
+	text-align: justify;
+    margin:  0 1em 1em 1em;
+	clear:left;
+}
+.high-concept strong {
+	font-weight: bold;
+	
+} 
 
 .img-sobre {
 	width: 120px;
