@@ -15,4 +15,4 @@ Essa proposta do projeto, e a integração com o <b>Wiki</b> para consulta e con
 
 ### Clique na imagem para acompanhar com mais detalhes o projeto.
   
-<body><article id="1cc061b7-ddcd-4ac3-b02e-1db2e2a2691a" class="page sans"><a href="https://github.com/leafar3103/Projetos/wiki/Ascens%C3%A3o-de-Smaug"><header><img class="page-cover-image" src="Concept%20Art%20553a747a98204657864baebdd9188a72/Capa_Etapa_Final.jpg" style="object-position:center 0%"/></a>
+<body><article id="1cc061b7-ddcd-4ac3-b02e-1db2e2a2691a" class="page sans"><a href="https://github.com/leafar3103/Projetos/wiki/Ascensao-de-Smaug"><header><img class="page-cover-image" src="Concept%20Art%20553a747a98204657864baebdd9188a72/Capa_Etapa_Final.jpg" style="object-position:center 0%"/></a>
